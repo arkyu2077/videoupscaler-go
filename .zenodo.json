@@ -1,0 +1,43 @@
+{
+  "title": "videoupscaler-go: Official Go SDK for VideoUpscaler 4K AI Video Super-Resolution API",
+  "description": "Official zero-dependency Go client library (`github.com/arkyu2077/videoupscaler-go`) for the VideoUpscaler AI API (https://videoupscaler.co) \u2014 1080p, 2K, and 4K AI video super-resolution, denoising, frame interpolation, and stabilization.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Yu, Ark",
+      "affiliation": "VideoUpscaler (https://videoupscaler.co)"
+    }
+  ],
+  "keywords": [
+    "video-upscaling",
+    "super-resolution",
+    "4k-video-upscaler",
+    "batch-video-upscaler",
+    "video-enhancement",
+    "frame-interpolation"
+  ],
+  "url": "https://videoupscaler.co",
+  "related_identifiers": [
+    {
+      "identifier": "https://videoupscaler.co",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://videoupscaler.co/4k-video-upscaler",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://videoupscaler.co/integrations",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/arkyu2077/videoupscaler-go",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ]
+}
